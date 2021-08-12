@@ -27,11 +27,7 @@ Or contact me at gobinathvb24@gmail.com
 ## Github
 ![Adrian's github stats](https://github-readme-stats-775kz1aki.vercel.app/api?username=gobinathrepos&count_private=true&show_icons=true&theme=buefy)
 </br>
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=p5-react-renderer)](https://github.com/Gobinathrepos/chatup)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=pureJSCollisions)](https://github.com/adiman9/pureJSCollisions)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=gameoflife)](https://github.com/HungryTurtleCode/gameoflife)
-[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=HungryTurtleCode&repo=multiplayerSnake)](https://github.com/HungryTurtleCode/multiplayerSnake)
-
+[![ReadMe Card](https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=adiman9&repo=chatup)](https://github.com/Gobinathrepos/chatup)
 
 
 [website]: https://gobinath-varatharajan.vercel.app/
