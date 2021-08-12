@@ -1,5 +1,5 @@
 ### What's Up! I'm Gobinath 👋
-I'm a tech enthusiasm who is trying to teach and bring tech into the world. You can also find me taking about technology on Blog.
+I'm Gobinath from India, I'm a tech enthusiasm who is trying to learn by teaching. I develop and design projects currently looking for opportunities. I really enjoy learning languages and their frameworks like React and React Native. I also enjoy wireframing the app before deploying into the world. You can also find me taking about technology on Blog.
 
 Some of my time spend:
 
