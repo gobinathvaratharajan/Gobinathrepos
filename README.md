@@ -18,11 +18,9 @@ Some of my time spend:
 
 ## Find me online
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/hungrytrtl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadiman9&screen_name=hungrytrtl)
-[![Subscribe to Hungry Turtle Code](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/hungryturtledev?sub_confirmation=1)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hungrytrtl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Gobinath_VB)
 
 [<img align="left" alt="hungryturtlecode.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hungry Turtle Code Youtube Channel" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Adrian's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Adrian's Patreon" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
 [<img align="left" alt="Adrian's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
@@ -30,22 +28,10 @@ Some of my time spend:
 
 Or contact me at adrianhenry@hey.com
 
-## 📽️ My Latest Videos
-<!-- YOUTUBE:START -->
-- [What Are Javascript Promises [2020 Crash Course]](https://www.youtube.com/watch?v=-LrRz3_yTIk)
-- [How To Learn React JS Fast](https://www.youtube.com/watch?v=7Okuzbj0F4Y)
-- [Netlify and Heroku deployment for Socket IO snake game](https://www.youtube.com/watch?v=M9RDYkFs-EQ)
-- [Github Profile Readme - Your Creative Corner of Github](https://www.youtube.com/watch?v=uA1dobUQ190)
-- [What is work life balance](https://www.youtube.com/watch?v=O4QvUNiwIlI)
-<!-- YOUTUBE:END -->
-
 ## 📕 My Latest Articles
 <!-- ARTICLES:START -->
-- [What is Parcel Bundler?](https://hungryturtlecode.com/tutorials/parcel-bundler/)
-- [What Are Styled Components?](https://hungryturtlecode.com/tutorials/what-are-styled-components/)
-- [How To Deploy a Library to NPM Using Travis CI](https://hungryturtlecode.com/projects/parallax-deploy-npm/)
-- [ESLint and Prettier with Husky Git Hooks](https://hungryturtlecode.com/projects/eslint-husky-parallax/)
-- [Writing tests for the Parallax Library](https://hungryturtlecode.com/projects/parallax-tests/)
+- [How To Learn React JS Fast](https://dev.to/gobinath/3-way-to-learn-fast-1nk7)
+- [Essential React Concept - Part 1](https://dev.to/gobinath/learn-react-the-fast-way-328l)
 <!-- ARTICLES:END -->
 
 ## Github
@@ -58,10 +44,7 @@ Or contact me at adrianhenry@hey.com
 
 
 
-
-[youtube]: https://www.youtube.com/hungryturtledev
-[website]: https://hungryturtlecode.com
-[twitter]: https://twitter.com/hungrytrtl
-[patreon]: https://www.patreon.com/hungryturtlecode
-[github]: https://github.com/adiman9
-[github_htc]: https://github.com/HungryTurtleCode
+[website]: https://gobinath-varatharajan.vercel.app/
+[twitter]: https://twitter.com/Gobinath_VB
+[patreon]: https://www.patreon.com/gobinathrepos
+[github]: https://github.com/gobinathrepos
