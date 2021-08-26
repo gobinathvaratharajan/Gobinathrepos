@@ -2,8 +2,6 @@
  
 from India, I like to learn by doing and teaching the stuff. I develop and design projects which is currently live. I really enjoy learning languages and their frameworks like React and React Native.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
-
 Some of my time spend:
 
 - 🔭 I’m currently looking for an opportunity.
@@ -11,12 +9,10 @@ Some of my time spend:
 - 👯 I’m looking to collaborate on any type of project.
 - 💬 Ask me about everything in tech I will try simplify it.
 
-
 ## Find me online
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobinath-varatharajan-4103201a8/)](https://www.linkedin.com/in/gobinath-varatharajan-4103201a8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gobinathvb24@gmail.com)](mailto:gobinathvb24@gmail.com)
-
 
 ### ⚙️ Some Tool and Tech I use
 
@@ -26,18 +22,15 @@ Some of my time spend:
 <code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
 
-
 ## 📕 My Latest Articles
 <!-- ARTICLES:START -->
 - [How To Learn React JS Fast](https://dev.to/gobinath/3-way-to-learn-fast-1nk7)
 - [Essential React Concept - Part 1](https://dev.to/gobinath/learn-react-the-fast-way-328l)
 <!-- ARTICLES:END -->
 
-
 [website]: https://gobinath-varatharajan.vercel.app/
 [twitter]: https://twitter.com/Gobinath_VB
 [github]: https://github.com/gobinathrepos
-
 
 ### 🚀 Quick Stats
 <p align="center">
