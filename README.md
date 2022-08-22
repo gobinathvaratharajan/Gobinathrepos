@@ -1,11 +1,10 @@
-### What's Up! I'm Gobinath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### What's Up! I'm Gobinath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India,
  
-from India, I like to learn by doing and teaching the stuff. I develop and design projects which is currently live. I really enjoy learning languages and their frameworks like React and React Native.
+I like to learn by doing and teaching the stuff. I develop and design projects which is currently live. I really enjoy learning languages and their frameworks like React and React Native.
 
 Some of my time spend:
 
-- 🔭 I’m currently looking for an opportunity.
-- 🌱 I’m currently learning Frontend as well as Testing.
+- 🌱 I’m currently learning Javascript patterm.
 - 👯 I’m looking to collaborate on any type of project.
 - 💬 Ask me about everything in tech I will try simplify it.
 
@@ -24,11 +23,9 @@ Some of my time spend:
 
 ## 📕 My Latest Articles
 <!-- ARTICLES:START -->
-- [How To Learn React JS Fast](https://dev.to/gobinath/3-way-to-learn-fast-1nk7)
 - [Essential React Concept - Part 1](https://dev.to/gobinath/learn-react-the-fast-way-328l)
 <!-- ARTICLES:END -->
 
-[website]: https://gobinath-varatharajan.vercel.app/
 [twitter]: https://twitter.com/Gobinath_VB
 [github]: https://github.com/gobinathrepos
 
