@@ -1,6 +1,6 @@
 ### What's Up! I'm Gobinath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> from India,
  
-I like to learn by doing and teaching the stuff. I develop and design projects which is currently live. I really enjoy learning languages and their frameworks like React and React Native.
+I am a frontend developer like to learn by doing and teach technical stuff. I challenge myself understanding javascript.
 
 Some of my time spend:
 
