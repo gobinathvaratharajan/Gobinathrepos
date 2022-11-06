@@ -13,18 +13,6 @@ Some of my time spend:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gobinath-varatharajan-4103201a8/)](https://www.linkedin.com/in/gobinath-varatharajan-4103201a8/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gobinathvb24@gmail.com)](mailto:gobinathvb24@gmail.com)
 
-### ⚙️ Some Tool and Tech I use
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-
-## 📕 My Latest Articles
-<!-- ARTICLES:START -->
-- [Essential React Concept - Part 1](https://dev.to/gobinath/learn-react-the-fast-way-328l)
-<!-- ARTICLES:END -->
-
 [twitter]: https://twitter.com/Gobinath_VB
 [github]: https://github.com/gobinathrepos
 
