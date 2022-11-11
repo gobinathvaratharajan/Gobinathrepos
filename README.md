@@ -21,16 +21,3 @@ Some of my time spend:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gobinathrepos&show_icons=true&line_height=21&theme=react" alt="Gobinathrepos Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathrepos&theme=react&line_height=27&layout=compact" />
 </p>
-
-<details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Gobinathrepos/chatup">
-<img src="https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=gobinathrepos&repo=chatup&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/Gobinathrepos/eShop">
-<img src="https://github-readme-stats-775kz1aki.vercel.app/api/pin/?username=gobinathrepos&repo=eShop&show_owner=true&theme=react" />
-</a>
-</p>
-</details>
