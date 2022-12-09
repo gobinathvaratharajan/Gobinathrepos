@@ -18,6 +18,6 @@ Some of my time spend:
 
 ### 🚀 Quick Stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobinathvaratharajan&show_icons=true&line_height=21&theme=react" alt="Gobinathrepos Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobinathvaratharajan&show_icons=true&line_height=21&theme=react" alt="Gobinathrepos Github Stats" /> <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathvaratharajan&theme=react&line_height=27&layout=compact" />
 </p>
