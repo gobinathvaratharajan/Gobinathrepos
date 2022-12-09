@@ -6,7 +6,7 @@ Some of my time spend:
 
 - 🌱 I’m currently learning Javascript patterm.
 - 👯 I’m looking to collaborate on any type of project.
-- 💬 Ask me about everything in tech I will try simplify it.
+- 💬 Ask me about everything in tech I will try to simplify it.
 
 ## Find me online
 
@@ -15,6 +15,7 @@ Some of my time spend:
 
 [twitter]: https://twitter.com/Gobinath_VB
 [github]: https://github.com/gobinathrepos
+[hashnode]: https://gobinath.hashnode.dev/
 
 ### 🚀 Quick Stats
 <p align="center">
