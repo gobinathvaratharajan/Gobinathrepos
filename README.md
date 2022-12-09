@@ -14,7 +14,7 @@ Some of my time spend:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gobinathvb24@gmail.com)](mailto:gobinathvb24@gmail.com)
 
 [twitter]: https://twitter.com/Gobinath_VB
-[github]: https://github.com/gobinathrepos
+[github]: https://github.com/gobinathvaratharajan
 [hashnode]: https://gobinath.hashnode.dev/
 
 ### 🚀 Quick Stats
